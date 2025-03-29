@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-12)
+## Unreleased (2025-03-29)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`742b5de`](https://github.com/stdlib-js/stdlib/commit/742b5deeb5ff921e03eac5560734c75e7535fdea) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`5219674`](https://github.com/stdlib-js/stdlib/commit/5219674d43d8c4cdff5b80169f206e6b4864b374) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dstdevpn` [(#4687)](https://github.com/stdlib-js/stdlib/pull/4687) _(by Prashant Kumar Yadav, stdlib-bot)_
 -   [`07b7e9b`](https://github.com/stdlib-js/stdlib/commit/07b7e9b060009865164ff658d31a3e402d7fe3fe) - **refactor:** update `stats/base/dstdevpn` native addon from C++ to C [(#4272)](https://github.com/stdlib-js/stdlib/pull/4272) _(by Vivek Maurya)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
@@ -39,8 +40,9 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Athan Reines
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
